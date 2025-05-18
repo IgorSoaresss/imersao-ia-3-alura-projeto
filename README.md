@@ -15,7 +15,7 @@ Para rodar, utilizar uma API Key do Google Gemini, de preferência usando o Goog
 ## 📌 Processo
 ✔️ Lista sucinta citando sugestões pesquisadas  
 ✔️ Planejamento das melhores opções com mais uma pesquisa    
-✔️ Escrita bruta de tudo que a IA julgou valer a pena 📊
+✔️ Escrita bruta de tudo que a IA julgou valer a pena 📊    
 ✔️ Refinamento com uma linguagem simples e um discurso personalizado de apoio para a pessoa que vai receber o presente 👥 
 
 ## Links
