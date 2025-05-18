@@ -9,14 +9,16 @@ Decidi usar a Inteligência Artificial para gerar ideias de forma intuitiva de o
 Para rodar, utilizar uma API Key do Google Gemini, de preferência usando o Google Colab como compilador, para maior facilidade.
 - **Python 🐍**
 
-## 📌 Funcionalidades
-✔️ Gerador de sugestões de presente de acordo
-✔️ Gerenciamento de eventos e espetáculos    
-✔️ Administração de elenco e produção 👥
-✔️ Relatórios e estatísticas para otimização de gestão 📊
+## 📌 Função principal
+✔️ Gerador de sugestões de presente de acordo com informações fornecidas
 
-## 📌 Características
-✔️ Cadastro de teatros e espaços disponíveis  
-✔️ Gerenciamento de eventos e espetáculos    
-✔️ Administração de elenco e produção 👥
-✔️ Relatórios e estatísticas para otimização de gestão 📊
+## 📌 Processo
+✔️ Lista sucinta citando sugestões pesquisadas
+✔️ Planejamento das melhores opções com mais uma pesquisa
+✔️ Escrita bruta de tudo que a IA julgou valer a pena 📊
+✔️ Refinamento com uma linguagem simples e um discurso personalizado de apoio para a pessoa que vai receber o presente 👥
+
+## 📜 Licença
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+Espero me destacar tanto quanto a Turquia nessas aulas! 😂
