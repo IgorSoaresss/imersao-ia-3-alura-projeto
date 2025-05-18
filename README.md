@@ -26,4 +26,5 @@ Para rodar, utilizar uma API Key do Google Gemini, de preferência usando o Goog
 ## 📜 Licença
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Espero me destacar tanto quanto a Turquia nessas aulas! 😂
+
+Espero me destacar tanto quanto a Turquia se destacou nessas aulas! 😂
