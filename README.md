@@ -1,4 +1,4 @@
-# Gerador de ideias de presente com IA
+# GIAFT - Gerador de ideias de presente com IA
 
 Bem vindo! Este projeto foi desenvolvido como um desafio da última aula da 3º edição da imersão IA.
 
