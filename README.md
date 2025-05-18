@@ -23,6 +23,9 @@ Para rodar, utilizar uma API Key do Google Gemini, de preferência usando o Goog
 📼 [**Plataforma - Google AI Studio**](https://aistudio.google.com/prompts/new_chat) (provedor da chave API)    
 📜 [**Código - Google Colab**](https://colab.research.google.com/drive/1rcm4qirMcI0PlV3iuQzVUkPRjR9TIRYy?usp=sharing)    
 
+## 👥 Colaborador
+💡 **Igor Soares** - [@github](https://github.com/IgorSoaresss)  
+
 ## 📜 Licença
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
