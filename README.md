@@ -13,10 +13,10 @@ Para rodar, utilizar uma API Key do Google Gemini, de preferência usando o Goog
 ✔️ Gerador de sugestões de presente de acordo com informações fornecidas
 
 ## 📌 Processo
-✔️ Lista sucinta citando sugestões pesquisadas
-✔️ Planejamento das melhores opções com mais uma pesquisa
+✔️ Lista sucinta citando sugestões pesquisadas  
+✔️ Planejamento das melhores opções com mais uma pesquisa    
 ✔️ Escrita bruta de tudo que a IA julgou valer a pena 📊
-✔️ Refinamento com uma linguagem simples e um discurso personalizado de apoio para a pessoa que vai receber o presente 👥
+✔️ Refinamento com uma linguagem simples e um discurso personalizado de apoio para a pessoa que vai receber o presente 👥 
 
 ## 📜 Licença
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
