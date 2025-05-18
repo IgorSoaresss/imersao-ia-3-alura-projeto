@@ -19,9 +19,9 @@ Para rodar, utilizar uma API Key do Google Gemini, de preferência usando o Goog
 ✔️ Refinamento com uma linguagem simples e um discurso personalizado de apoio para a pessoa que vai receber o presente 👥 
 
 ## Links
-📼 [**Google Gemini (modelo usado)**](https://gemini.google.com/)    
-📼 [**Google AI Studio (provedor da chave API)**](https://aistudio.google.com/prompts/new_chat)    
-📜 [**Google Colab**](https://colab.research.google.com/drive/1rcm4qirMcI0PlV3iuQzVUkPRjR9TIRYy?usp=sharing)    
+📼 [**Plataforma - Google Gemini (modelo usado)**](https://gemini.google.com/)    
+📼 [**Plataforma - Google AI Studio (provedor da chave API)**](https://aistudio.google.com/prompts/new_chat)    
+📜 [**Código - Google Colab**](https://colab.research.google.com/drive/1rcm4qirMcI0PlV3iuQzVUkPRjR9TIRYy?usp=sharing)    
 
 ## 📜 Licença
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
