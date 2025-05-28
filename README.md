@@ -3,7 +3,7 @@
 Bem vindo! Este projeto foi desenvolvido como um desafio da última aula da 3º edição da imersão IA.
 
 ## 🚀 Sobre o projeto
-Decidi usar a Inteligência Artificial para gerar ideias de forma intuitiva de opções para presentear uma pessoa, podendo variar de acordo com as características e gostos fornecidos sobre a pessoa, podendo conversar de forma livre.
+A aplicação usa Inteligência Artificial para gerar ideias de forma intuitiva de opções para presentear uma pessoa, podendo variar de acordo com as características e gostos fornecidos sobre a pessoa.
 
 ## 🛠 Tecnologias utilizadas
 Para compilar, utilizar uma API Key do Google Gemini, de preferência usando o Google Colab como compilador, para maior facilidade.
